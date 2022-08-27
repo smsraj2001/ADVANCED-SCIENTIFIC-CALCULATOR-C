@@ -1,0 +1,20 @@
+#include"Header.h"
+void menu();
+void calculator_operations();
+void addition();
+void subtraction();
+void multiplication();
+void division();
+void modulus();
+void power();
+void factorial();
+void absolute();
+void ratio();
+void percent();
+void INV();
+void root();
+void expre();
+double evaluate (char []);
+int precedence(char);
+double calculate(char , double , double );
+char checknumber(char);
