@@ -6,14 +6,14 @@ An Advanced Scientific Calculator executed in ```C language``` with programming 
 
 ## DESCRIPTION
 v~ 1.0\
-This  project handles 5 basic FUNCTIONALITIES that includes:-
+This project handles 5 basic FUNCTIONALITIES which includes :-
 - Algebra
 - Arithmetic
 - Conversion
 - Miscellaneous calculation
-- Trigonometry\
+- Trigonometry
 
-### Some features are:-
+### Some features are :-
 
 - Completely menu driven program which will help user to understand the project at each execution.
 - User can open each functionality( i.e. Algebra, etc....) in a different shell, which makes it more realistic.
@@ -27,14 +27,14 @@ This  project handles 5 basic FUNCTIONALITIES that includes:-
   
 
 ## INSTRUCTIONS
-- Works with any C compiler with best choice as ```gcc``` and ```make``` for running make files.
+- Works with any C compiler with the best choice as ```gcc``` and ```make``` for running make files.
 - Works in ```Windows``` as some headers used here are specific to Windows environment only. Changing some headers will make it compatible to run on Linux systems.
 - Download the project, or enter the following in terminal ```if you have git installed``` :-
 ```bash 
 git clone https://github.com/smsraj2001/ADVANCED-SCIENTIFIC-CALCULATOR-C.git
 ```
 - Select the SRC folder and open a terminal.
-- Now follow the steps in ```Order``` :-
+- Now follow the steps in ```Order```:-
     - Run the following to create the .exe files for the respective functionalities :-
     ```bash 
     mingw32-make -f Alge_make.mk
